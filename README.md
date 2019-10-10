@@ -22,7 +22,6 @@ Users should be able to start a new quiz.
 
 Technical requirements Your quiz app must:
 
-Render answer choices in a .
 Use semantic HTML, along with CSS and jQuery.
 Follow a11y best practices.
 Refer back to the lessons on accessibility and forms for help.
