@@ -2,7 +2,7 @@
 quiz-app
 Keto Quiz App. The first major assignment for my Full Stack Developer course at Thinkful.
 
-You can play the Quiz App here: 
+You can play the Quiz App here: https://renal1.github.io/KetoQuizApp/
 
 The requirements for the app are:
 
