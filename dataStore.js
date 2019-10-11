@@ -1,14 +1,14 @@
 const STORE = [
   { 
-    question: 'What is the foundation of a ketogonic diet?',
+    question: 'What is the foundation of a ketogonic diet ?',
     answers:
      [
       '20 percent fat, 60 percent protein, 20 percent carbs',
       '20 percent fat, 60 percent protein, 20 percent carbs',
       '0 percent fat, 15 percent protein, 85 percent carbs',
-      '75 percent fat, 25 percent protein, 5 percent carbs',
+      '75 percent fat, 20 percent protein, 5 percent carbs',
      ],
-      correctAnswer:'75 percent fat, 25 percent protein, 5 percent carbs',
+      correctAnswer:'75 percent fat, 20 percent protein, 5 percent carbs',
      },
 
   {
